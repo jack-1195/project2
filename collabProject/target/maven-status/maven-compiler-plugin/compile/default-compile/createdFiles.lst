@@ -1,0 +1,13 @@
+com\collab\dao\BlogDAO.class
+com\collab\service\UserService.class
+com\collab\model\User.class
+com\collab\dao\ForumDAO.class
+com\collab\controller\HomeController.class
+com\collab\controller\UserController.class
+com\collab\service\BlogService.class
+com\collab\dao\UserDAO.class
+com\collab\model\Blog.class
+com\collab\model\Forum.class
+com\collab\model\OutputMessage.class
+com\collab\service\ForumService.class
+com\collab\model\Message.class
